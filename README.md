@@ -14,5 +14,13 @@ kiara@holo.com - kiara123
 2. PHP version: 8.0.9
 3. Framework: Laravel 4.2.7
 
+## Startup
+1. Install framework laravel
+2. Install dependencies lainnya
+3. Run "php artisan serve"
+
 ## Panduan
-1. Aplikasi menggunakan Laravel, sehingga install terlebih dahulu semua kebutuhannya
+1. Registrasi atau Login langsung dari welcome screen dengan tombol di pojok kanan atas halaman
+2. Setelah login, dapat melihat grafik data pemakaian kendaraan
+3. Pada navigation bar di pojok kanan atas, terdapat opsi kendaraan. Halaman ini untuk melihat semua kendaraan yang terdaftar, dan untuk menambah kendaraan bagi admin
+4. Pada navigation bar di pojok kanan atas, terdapat opsi pemesanan. Halaman ini untuk melihat semua pemesanan yang harus disetujui oleh suatu user, dan untuk menginput pesanan bagi admin
