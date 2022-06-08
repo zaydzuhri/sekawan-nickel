@@ -50,8 +50,6 @@
             "@php artisan key:generate --ansi"
         ],
         "vercel": [
-            "php artisan bootstrap --auth",
-            "php artisan ui bootstrap --auth",
             "npm install && npm run dev"
         ]
     },
