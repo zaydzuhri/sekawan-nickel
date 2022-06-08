@@ -20,6 +20,7 @@
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
         "APP_ROUTES_CACHE": "/tmp/routes.php",
         "APP_SERVICES_CACHE": "/tmp/services.php",
+        "APP_KEY": "base64: 3FL9E8n0yraA0PzQJIAQrVPR7gfaoipEHkxV+2iwoW0=",
         "DB_CONNECTION": "sqlite",
         "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_DRIVER": "array",

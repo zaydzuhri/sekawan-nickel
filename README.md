@@ -1,4 +1,5 @@
 # Technical Test: Zayd M. K. Zuhri
+Repository: https://github.com/zaydzuhri/sekawan-nickel
 
 ## Daftar Email-Password
 1. admin@admin.com - 9pBkjD9S9ivrRV:
