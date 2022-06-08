@@ -1,13 +1,13 @@
 # Technical Test: Zayd M. K. Zuhri
 
 ## Daftar Email-Password
-admin@admin.com - 9pBkjD9S9ivrRV:
-zaydzuhri@gmail.com = zuhri123
-ame@holo.com - watson123
-calli@holo.com - calli123
-gura@holo.com - gawr1234
-ina@holo.com - ina12345
-kiara@holo.com - kiara123
+1. admin@admin.com - 9pBkjD9S9ivrRV:
+2. zaydzuhri@gmail.com = zuhri123
+3. ame@holo.com - watson123
+4. calli@holo.com - calli123
+5. gura@holo.com - gawr1234
+6. ina@holo.com - ina12345
+7. kiara@holo.com - kiara123
 
 ## Dependencies/Versions
 1. Database version: sqlite >3.36.0 (Karena keterbatasan waktu, tidak dapat menggunakan server MySQL)

@@ -50,6 +50,8 @@
             "@php artisan key:generate --ansi"
         ],
         "vercel": [
+            "composer require laravel/ui",
+            "php artisan ui boostrap --auth",
             "npm install && npm run dev"
         ]
     },
