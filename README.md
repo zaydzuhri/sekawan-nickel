@@ -1,5 +1,5 @@
 # Technical Test: Zayd M. K. Zuhri
-Deployment: sekawan-nickel.vercel.app
+# Deployment: sekawan-nickel.vercel.app
 Repository: https://github.com/zaydzuhri/sekawan-nickel
 
 ## Daftar Email-Password
